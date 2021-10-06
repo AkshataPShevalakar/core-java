@@ -1,0 +1,4 @@
+enum HelmetSize
+{
+L,M;
+}
